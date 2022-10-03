@@ -8,3 +8,10 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> IDE and Project Folders ###
+/.idea/
+###< IDE and Project Folders ###
+
+/docker-compose.yml
+/docker/image/php/Dockerfile
