@@ -6,7 +6,9 @@
 - symfony-cli (recommended)
 
 Stages
+- Master (branch main)
 - Testing (branch test)
+- Development (branch develop)
 
 ## Install
 
