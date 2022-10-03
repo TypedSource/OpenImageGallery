@@ -5,6 +5,9 @@
 - composer
 - symfony-cli (recommended)
 
+Stages
+- Testing (branch test)
+
 ## Install
 
 - copy the docker-compose.dist.yml to docker-compose.yml and edit with your credentials
